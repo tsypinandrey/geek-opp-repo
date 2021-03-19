@@ -1,3 +1,9 @@
+/*файл: prototype.h
+ *автор: Цыпин Андрей
+ *дата: 19.03.2021
+ *операционная система: ubuntu
+ *задание: 6
+ */
 #ifndef PROTOTYPE_H
 #define PROTOTYPE_H
 
@@ -7,13 +13,6 @@
 #include <ios>    // для <streamsize>
 #include <vector> // класс динамического массива
 #include <algorithm>
-/*файл: prototype.h
- *автор: Цыпин Андрей
- *дата: 19.03.2021
- *операционная система: ubuntu
- *задание: 6
- */
-
 #include <ctime>
 
 void clrscr(void);
